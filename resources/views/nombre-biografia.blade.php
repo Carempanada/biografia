@@ -163,38 +163,15 @@
                 </div>
                 
                 <div class="section">
-                    <h2>Habilidades</h2>
-                    <div class="skills">
-                        <span class="skill">PHP</span>
-                        <span class="skill">Laravel</span>
-                        <span class="skill">JavaScript</span>
-                        <span class="skill">HTML/CSS</span>
-                        <span class="skill">MySQL</span>
-                        <span class="skill">Git</span>
-                        <span class="skill">Docker</span>
-                        <span class="skill">Linux</span>
+                    <h2>Actualidad</h2>
+                    <div class="bio-text">
+                        <p>Actualmente me encuentro estudiando Ingeniería de Sistemas en la Universidad, donde continúo profundizando mis conocimientos en programación y desarrollo de software. Cada día descubro nuevas tecnologías y herramientas que me permiten crear soluciones más eficientes e innovadoras.</p>
                     </div>
-                </div>
-                
-                <div class="section">
-                    <h2>Contacto</h2>
-                    <div class="contact-info">
-                        <div class="contact-item">
-                            <span class="contact-icon">📧</span>
-                            <span>tu-email@ejemplo.com</span>
-                        </div>
-                        <div class="contact-item">
-                            <span class="contact-icon">🌐</span>
-                            <span>www.tu-sitio-web.com</span>
-                        </div>
-                        <div class="contact-item">
-                            <span class="contact-icon">📱</span>
-                            <span>+1 (555) 123-4567</span>
-                        </div>
-                        <div class="contact-item">
-                            <span class="contact-icon">📍</span>
-                            <span>Tu Ciudad, País</span>
-                        </div>
+                    <div class="bio-text">
+                        <p>En mi tiempo libre, me dedico a desarrollar proyectos personales utilizando diferentes lenguajes de programación como PHP, JavaScript y Python. También participo en talleres y cursos online para mantenerme actualizada con las últimas tendencias tecnológicas. Me apasiona especialmente el desarrollo web y la creación de aplicaciones que puedan impactar positivamente en la vida de las personas.</p>
+                    </div>
+                    <div class="bio-text">
+                        <p>Además de mis estudios, trabajo en una empresa de desarrollo de web donde me encargo de desarrollar funcionalidades para el cliente y arreglar errores en el codigo.</p>
                     </div>
                 </div>
             </div>
