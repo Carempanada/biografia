@@ -20,3 +20,7 @@ Route::get('/index', function () {
 Route::get('/nombre-biografia', function () {
     return view('nombre-biografia');
 });
+
+Route::get('/habilidades', function () {
+    return view('habilidades');
+});
