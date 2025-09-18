@@ -157,6 +157,9 @@
                     <div class="bio-text">
                         <p>Naci el 16 de Agosto del 2005, vivi los primeros aos de mi vida en la ciudad de bogota. De pequeña me gustaban muchos los instrumentos y aprendi a tocar varios como el violin y la guitarra, tambien disfrutaba mucho de pintar. Cuando cumpli 9 años nos mudamos a Bucaramanga donde termine la primaria y empece el bachillerato en el colegio reina de la paz.</p>
                     </div>
+                    <div class="bio-text">
+                        <p>En mi adolescencia me empezaron a gustar muchos lo videojuegos y me empezo a interesar mucho el mundo de la tecnologia, disfruta de talleres de robotica que se hacian en el colegio y en general siempre quise aprender mas sobre programacion. Estudie 2 años en cuarentena lo cual afecto un poco mi experiencia en el colegio pero pude terminar satisfactoriamente en el 2022</p>
+                    </div>
                 </div>
                 
                 <div class="section">
