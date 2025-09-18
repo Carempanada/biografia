@@ -154,6 +154,9 @@
                     <div class="bio-text">
                         <p>¡Hola! Naci en Bucaramanga, mis padres y hermanos son de la ciudad de Bogota. Aunque vivieron la mayor parte de sus vidas en Bucaramanga. Vivi hasta mis 10 aos en bogota y luego regrese a Bucaramanga.</p>
                     </div>
+                    <div class="bio-text">
+                        <p>Naci el 16 de Agosto del 2005, vivi los primeros aos de mi vida en la ciudad de bogota. De pequeña me gustaban muchos los instrumentos y aprendi a tocar varios como el violin y la guitarra, tambien disfrutaba mucho de pintar. Cuando cumpli 9 años nos mudamos a Bucaramanga donde termine la primaria y empece el bachillerato en el colegio reina de la paz.</p>
+                    </div>
                 </div>
                 
                 <div class="section">
