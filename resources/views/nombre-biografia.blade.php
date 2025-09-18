@@ -174,6 +174,18 @@
                         <p>Además de mis estudios, trabajo en una empresa de desarrollo de web donde me encargo de desarrollar funcionalidades para el cliente y arreglar errores en el codigo.</p>
                     </div>
                 </div>
+                
+                <div class="section">
+                    <h2>Aspiraciones</h2>
+                    <div class="bio-text">
+                        <p>Mi mayor aspiración es convertirme en una desarrolladora full-stack senior, especializándome en tecnologías modernas y liderando equipos de desarrollo. Quiero dominar tanto el frontend como el backend, creando aplicaciones web completas que sean escalables, eficientes y que realmente impacten positivamente en la vida de los usuarios.</p>
+                    </div>
+                    <div class="bio-text">
+                        <p>A mediano plazo, me gustaría poder dedicarle mas tiempo a mi pasion por el modelado 3d, ya que quisiera eventualmente poder dedicarme a ello como trabajo.</p>
+                    <div class="bio-text">
+                        <p>Tambien en un futuro me gustaria poder tener un trabajo que me permita viajar y conocer nuevos lugares y dedicarle tiempo a mis intereses como la musica y el modelado 3d.</p>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
