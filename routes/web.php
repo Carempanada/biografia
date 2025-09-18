@@ -21,6 +21,11 @@ Route::get('/nombre-biografia', function () {
     return view('nombre-biografia');
 });
 
+Route::get('/habilidades', function () {
+    return view('habilidades')
+  });
+
 Route::get('/vida-laboral', function () {
     return view('vida-laboral');
+
 });
