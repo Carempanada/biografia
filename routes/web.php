@@ -22,5 +22,10 @@ Route::get('/nombre-biografia', function () {
 });
 
 Route::get('/habilidades', function () {
-    return view('habilidades');
+    return view('habilidades')
+  });
+
+Route::get('/vida-laboral', function () {
+    return view('vida-laboral');
+
 });
