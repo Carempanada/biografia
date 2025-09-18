@@ -412,6 +412,43 @@
                         </div>
                     </div>
                 </div>
+                
+                
+                <div class="section">
+                    <h2>Habilidades Blandas</h2>
+                    <div class="soft-skills">
+                        <div class="soft-skill">
+                            <div class="soft-skill-icon">🤝</div>
+                            <h4>Trabajo en Equipo</h4>
+                            <p>Colaboración efectiva en proyectos grupales y comunicación clara con compañeros de trabajo.</p>
+                        </div>
+                        <div class="soft-skill">
+                            <div class="soft-skill-icon">🧠</div>
+                            <h4>Resolución de Problemas</h4>
+                            <p>Análisis crítico y enfoque sistemático para encontrar soluciones eficientes a desafíos técnicos.</p>
+                        </div>
+                        <div class="soft-skill">
+                            <div class="soft-skill-icon">📚</div>
+                            <h4>Aprendizaje Continuo</h4>
+                            <p>Curiosidad constante por nuevas tecnologías y mejora continua de habilidades.</p>
+                        </div>
+                        <div class="soft-skill">
+                            <div class="soft-skill-icon">⏰</div>
+                            <h4>Gestión del Tiempo</h4>
+                            <p>Organización eficiente de tareas y cumplimiento de plazos en proyectos.</p>
+                        </div>
+                        <div class="soft-skill">
+                            <div class="soft-skill-icon">💡</div>
+                            <h4>Creatividad</h4>
+                            <p>Enfoque innovador para el desarrollo de soluciones y diseño de interfaces.</p>
+                        </div>
+                        <div class="soft-skill">
+                            <div class="soft-skill-icon">🎯</div>
+                            <h4>Orientación al Detalle</h4>
+                            <p>Atención meticulosa a la calidad del código y experiencia del usuario.</p>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
