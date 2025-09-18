@@ -398,7 +398,26 @@
                 </div>
                 <h1 class="name">Danna Carrillo</h1>
                 <p class="title">Formación Académica y Desarrollo Profesional</p>
-            </div>      
+            </div>
+            
+            <div class="content">
+                <div class="section">
+                    <h2>Formación Académica</h2>
+                    <div class="education-timeline">
+                        <div class="education-item">
+                            <div class="education-header">
+                                <div class="education-icon">🎓</div>
+                                <div>
+                                    <h3 class="education-title">Ingeniería de Sistemas</h3>
+                                    <div class="institution">Universidad Autonoma de Bucaramanga</div>
+                                    <div class="duration">2023 - Presente</div>
+                                </div>
+                            </div>
+                            <div class="education-description">
+                                <p>Estudiante de Ingeniería de Sistemas con enfoque en desarrollo de software y tecnologías de la información. Durante mi formación he adquirido conocimientos sólidos en programación, bases de datos, arquitectura de software y metodologías de desarrollo.</p>
+                            </div>
+                        </div>
+                        
                         <div class="education-item">
                             <div class="education-header">
                                 <div class="education-icon">🏫</div>
@@ -414,6 +433,7 @@
                         </div>
                     </div>
                 </div>
+
                 
                 <div class="navigation">
                     <a href="/nombre-biografia" class="nav-link">Ver Biografía</a>
