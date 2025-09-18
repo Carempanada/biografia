@@ -152,16 +152,7 @@
                 <div class="section">
                     <h2>Biografía</h2>
                     <div class="bio-text">
-                        <p>¡Hola! Soy un desarrollador apasionado por la tecnología y la creación de soluciones innovadoras. 
-                        Con experiencia en desarrollo web y una constante búsqueda de aprendizaje, me dedico a crear 
-                        aplicaciones que marquen la diferencia.</p>
-                        
-                        <p>Mi trayectoria profesional se ha centrado en el desarrollo full-stack, trabajando con tecnologías 
-                        modernas como Laravel, JavaScript, y diversas herramientas de desarrollo. Siempre estoy buscando 
-                        nuevos desafíos que me permitan crecer profesionalmente y aportar valor a los proyectos en los que participo.</p>
-                        
-                        <p>Cuando no estoy programando, disfruto explorando nuevas tecnologías, contribuyendo a proyectos 
-                        de código abierto y compartiendo conocimientos con la comunidad de desarrolladores.</p>
+                        <p>¡Hola! Naci en Bucaramanga, mis padres y hermanos son de la ciudad de Bogota. Aunque vivieron la mayor parte de sus vidas en Bucaramanga. Vivi hasta mis 10 aos en bogota y luego regrese a Bucaramanga.</p>
                     </div>
                 </div>
                 
