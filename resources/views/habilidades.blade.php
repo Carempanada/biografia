@@ -387,6 +387,31 @@
                                 <span class="skill-level beginner">Principiante</span>
                             </div>
                         </div>
+                        
+                        <div class="skill-category">
+                            <div class="category-header">
+                                <div class="category-icon">🛠️</div>
+                                <h3 class="category-title">Herramientas y Tecnologías</h3>
+                            </div>
+                            <div class="skill-item">
+                                <span class="skill-name">Git</span>
+                                <span class="skill-level advanced">Intermedio</span>
+                            </div>
+                            <div class="skill-item">
+                                <span class="skill-name">Docker</span>
+                                <span class="skill-level intermediate">Principiante</span>
+                            </div>
+                            <div class="skill-item">
+                                <span class="skill-name">Linux</span>
+                                <span class="skill-level intermediate">Principiante</span>
+                            </div>
+                            <div class="skill-item">
+                                <span class="skill-name">VS Code</span>
+                                <span class="skill-level advanced">Intermedio</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
